@@ -11,11 +11,7 @@ Challenger do módulo BackEnd do curso Oracle Alura
 
 ## 🖇️ Colaborando
 
-Veja o arquivo [CONTRIBUTING.md](https://github.com/AIWASS23/poc-swift/blob/main/CONTRIBUTING.md) para detalhes.
-
-## 🔍 Pesquisas
-
-Veja o arquivo [PESQUISAS.md](https://github.com/AIWASS23/poc-swift/blob/main/PESQUISAS.md) para detalhes.
+Veja o arquivo [CONTRIBUTING.md](https://github.com/AIWASS23/conversorJava/blob/main/CONTRIBUTING.md) para detalhes.
 
 ## 📌 Versão
 
@@ -29,7 +25,7 @@ Veja o arquivo [PESQUISAS.md](https://github.com/AIWASS23/poc-swift/blob/main/PE
 
 ## 📄 Licença
 
-Este projeto está sob a licença (GNU General Public License v3.0) - veja o arquivo [LICENSE.md](https://github.com/AIWASS23/poc-swift/blob/main/LICENSE) para detalhes.
+Este projeto está sob a licença (MIT) - veja o arquivo [LICENSE.md](https://github.com/AIWASS23/conversorJava/blob/main/LICENSE.md) para detalhes.
 
 
-⌨️ com ❤️ por [Marcelo De Araújo](https://gist.github.com/AIWASS23)
+⌨️ com ❤️ por [Marcelo De Araújo](https://github.com/AIWASS23)
